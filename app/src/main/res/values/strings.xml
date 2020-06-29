@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Eduica</string>
+    <string name="slogan">Enlightening future by education</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_desc">Dapatkan teman belajar terbaikmu untuk membantu memahami materi belajar dengan mudah, cepat dan menyenangkan</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Finish</string>
+
+    <string name="onboard_title_1">Program Belajar Lengkap</string>
+    <string name="onboard_title_2">Jadwal Belajar Flexsible</string>
+    <string name="onboard_title_3">Pengajar Menyenangkan</string>
+    <string name="onboard_title_4">Saatnya Belajar</string>
+
+    <string name="onboard_desc_1">Kamu bisa belajar yang kalian inginkan hanya dengan 1 aplikasi dengan memanggil guru ke rumah</string>
+    <string name="onboard_desc_2">Tentukan waktu dan tempat untuk belajar yang kamu suka</string>
+    <string name="onboard_desc_3">Pilihlah pengajar dari eduica karena kami menyediakan pengajar yang hebat serta menyenangkan</string>
+    <string name="onboard_desc_4">Pengajar kamu akan datang pada jadwal yang kamu buat</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Ingatkan saya akun ini</string>
+    <string name="forget_password">Lupa Password?</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="text_1">Dengan membuat akun, saya setuju atas</string>
+    <string name="text_2">Privacy Policy</string>
+    <string name="text_3"> and </string>
+    <string name="text_4"><![CDATA[Term & Condition]]></string>
+    <string name="login_with">Masuk dengan</string>
+    <string name="insert_email">Masukan Alamat Email</string>
+    <string name="description">Kamu akan mendapatkan sebuah link yang di dalamnya terdapat kode verifikasi untuk membuat password baru</string>
+    <string name="resend_verification">Kirim ulang kode verifikasi</string>
+    <string name="next">Next</string>
+    <string name="title_forget">Password Telah Diatur Ulang</string>
+    <string name="desc_forget">Kamu akan mendapatkan sebuah link pada email kamu untuk mengatur password baru</string>
+    <string name="done">Done</string>
+    <string name="send_verification">Kirim email verifikasi</string>
+    <string name="select_account">Pilih Akun Belajar</string>
+    <string name="search_student">Cari Siswa</string>
+    <string name="warning_desc">Maaf anda belum memiliki akun belajar, silahkan membuat akun belajar terlebih dahulu</string>
+    <string name="account_study">Akun Belajar</string>
+    <string name="add_account">Tambah Akun Belajar</string>
+    <string name="student_photo">Foto Siswa</string>
+    <string name="study_account">Akun Belajar</string>
+    <string name="student">Pelajar</string>
+    <string name="college">Mahasiswa</string>
+    <string name="select_account_type">Pilih Jenis Akun</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="_62">+62</string>
+    <string name="dummy_number">859 - XXX - XXX</string>
+    <string name="phone_number">Nomor Handphone</string>
+    <string name="full_address">Alamat Lengkap</string>
+    <string name="address">Alamat Rumah</string>
+</resources>
